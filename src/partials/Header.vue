@@ -8,8 +8,8 @@
           <router-link class="block group" to="/" aria-label="Cruip">
             <svg
               class="
-                fill-blue-500
-                group-hover:fill-blue-600
+                fill-red-500
+                group-hover:fill-red-600
                 transition
                 duration-150
                 ease-in-out
@@ -36,8 +36,8 @@
                 class="
                   btn
                   text-white
-                  bg-blue-500
-                  hover:bg-blue-600
+                  bg-red-500
+                  hover:bg-red-600
                   w-full
                   shadow-sm
                 "

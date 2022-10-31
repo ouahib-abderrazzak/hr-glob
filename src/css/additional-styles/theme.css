@@ -4,7 +4,7 @@
 .form-select:focus,
 .form-checkbox:focus,
 .form-radio:focus {
-    @apply focus:ring-2 focus:ring-blue-100;
+    @apply focus:ring-2 focus:ring-red-100;
 }
 
 /* Hamburger button */
@@ -154,5 +154,5 @@
 }
 
 .swiper-pagination-bullet-active {
-    @apply bg-blue-400;
+    @apply bg-red-400;
 }

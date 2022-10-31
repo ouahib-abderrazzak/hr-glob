@@ -37,7 +37,7 @@
               data-aos-delay="100"
             >
               International Talent Recruitment Services for
-              <span class="relative inline-flex text-blue-500">
+              <span class="relative inline-flex text-red-500">
                 <svg
                   class="absolute left-0 top-full -mt-4 max-w-full -z-10"
                   width="220"
@@ -101,8 +101,8 @@
                   class="
                     btn
                     text-white
-                    bg-blue-500
-                    hover:bg-blue-600
+                    bg-red-500
+                    hover:bg-red-600
                     w-full
                     shadow-sm
                   "

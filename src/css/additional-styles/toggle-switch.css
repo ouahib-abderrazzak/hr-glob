@@ -12,5 +12,5 @@
 }
 
 .form-switch input[type="checkbox"]:checked+label>span:first-child {
-    @apply bg-blue-200 border-blue-600 left-6;
+    @apply bg-red-200 border-red-600 left-6;
 }
