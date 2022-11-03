@@ -8,7 +8,7 @@
             Need a Recruitment Agency to Work With? Choose HR Globe Now!
           </h2>
         </div>
-
+        <img src='../images/images-meeting-rrom.jpg' class='mx-auto w-1/2 pb-4 md:pb-8' />
         <p class="text-gray-200 text-center w-9/12 mx-auto">
           Hiring international talents in Canada doesn’t have to be a
           challenging task. Count on us at HR Globe to give you and your foreign

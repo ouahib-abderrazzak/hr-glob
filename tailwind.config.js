@@ -1,10 +1,10 @@
 module.exports = {
-  content: [
-    './index.html',
-    './src/**/*.{vue,js,ts,jsx,tsx}',
-  ],
+  content: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
   theme: {
     extend: {
+      colors: {
+        'hr-globe-color': '#B52C27',
+      },
       fontFamily: {
         inter: ['Inter', 'sans-serif'],
         'cabinet-grotesk': ['Cabinet Grotesk', 'sans-serif'],

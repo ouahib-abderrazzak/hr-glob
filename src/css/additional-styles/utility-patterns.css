@@ -53,7 +53,7 @@ input[type="search"]::-webkit-search-results-decoration {
 .form-select,
 .form-checkbox,
 .form-radio {
-    @apply bg-white border border-gray-200 focus:border-red-500;
+    @apply bg-white border border-gray-200 focus:border-hr-globe-color;
 }
 
 .form-input,
@@ -82,7 +82,7 @@ input[type="search"]::-webkit-search-results-decoration {
 
 .form-checkbox,
 .form-radio {
-    @apply text-red-500 rounded-sm;
+    @apply text-hr-globe-color rounded-sm;
 }
 
 /* Chrome, Safari and Opera */

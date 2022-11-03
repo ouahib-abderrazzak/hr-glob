@@ -20,70 +20,95 @@
             <!-- Desktop sign in links -->
             <ul class="flex grow justify-end flex-wrap items-center">
               <li
-            class="
-              px-4
-              py-3
-              text-gray-800
-              hover:text-red-500
-              rounded-md
-              cursor-pointer
-              hidden
-              md:block
-            "
-            v-for="(item, index) in [
-              { name: 'Services', link: '/services' },
-              { name: 'About Us', link: '/about' },
-            ]"
-            :key="index"
-          >
-            {{ item.name }}
-          </li>
-          <li class="ml-3">
-            <a
-              class="
-                btn
-                text-white
-                bg-red-500
-                hover:bg-red-600
-                w-full
-                shadow-sm
-                hidden
-                md:block
-              "
-              href="#contact-us"
-              >Contact Us</a
-            >
-          </li>
-          <li><BurgerIcon class='md:hidden' @click.native='toggleNavbar' :open='!hidden' /></li>
+                class="
+                  px-4
+                  py-3
+                  text-gray-800
+                  decoration-red-500 decoration-2
+                  underline-offset-2
+                  hover:underline
+                  rounded-md
+                  cursor-pointer
+                  hidden
+                  md:block
+                "
+                v-for="(item, index) in [
+                  { name: 'Services', link: '/services' },
+                  { name: 'About Us', link: '/about' },
+                  { name: 'Contact Us', link: '/contact-us' },
+                ]"
+                :key="index"
+              >
+                <router-link
+                  class="block group"
+                  :to="item.link"
+                  aria-label="Cruip"
+                >
+                  {{ item.name }}
+                </router-link>
+              </li>
+              <li class="ml-3">
+                <a
+                  class="
+                    btn
+                    text-white
+                    bg-hr-globe-color
+                    hover:bg-red-600
+                    w-full
+                    shadow-sm
+                    hidden
+                    md:block
+                  "
+                  href="#contact-us"
+                  >Apply Now</a
+                >
+              </li>
+              <li>
+                <BurgerIcon
+                  class="md:hidden"
+                  @click.native="toggleNavbar"
+                  :open="!hidden"
+                />
+              </li>
             </ul>
           </nav>
         </div>
       </div>
     </header>
-    <div class="absolute left-0 right-0 bg-red-100 mt-16 z-20" v-if='!hidden'>
+    <div class="absolute left-0 right-0 bg-red-100 mt-16 z-20" v-if="!hidden">
       <ul class="py-4 px-5 space-y-2">
         <li
           class="
             px-4
             py-3
             text-gray-800
-            hover:text-red-500
+            hover:text-hr-globe-color
             rounded-md
             cursor-pointer
           "
           v-for="(item, index) in [
             { name: 'Services', link: '/services' },
             { name: 'About Us', link: '/about' },
+            { name: 'Contact Us', link: '/contact-us' },
           ]"
           :key="index"
         >
-          {{ item.name }}
+          <router-link class="block group" :to="item.link" aria-label="Cruip">
+            {{ item.name }}
+          </router-link>
         </li>
         <li>
           <a
-            class="btn text-white bg-red-500 hover:bg-red-600 w-full shadow-sm"
+            class="
+              btn
+              text-white
+              bg-hr-globe-color
+              hover:bg-red-600
+              w-full
+              shadow-sm
+            "
             href="#contact-us"
-            >Contact Us</a
+            >Apply Now</a
           >
         </li>
       </ul>
@@ -92,24 +117,24 @@
 </template>
 
 <script>
-import BurgerIcon from './BurgerIcon.vue'
+import BurgerIcon from "./BurgerIcon.vue";
 export default {
   name: "Header",
   components: {
-    BurgerIcon
+    BurgerIcon,
   },
-	data() {
-		return {
-			hidden: true,
-		};
-	},
-	methods: {
-		toggleNavbar() {
-			this.hidden = !this.hidden;
-		},
-		goto(url) {
-			window.open(url, '_blank');
-		},
-	},
+  data() {
+    return {
+      hidden: true,
+    };
+  },
+  methods: {
+    toggleNavbar() {
+      this.hidden = !this.hidden;
+    },
+    goto(url) {
+      window.open(url, "_blank");
+    },
+  },
 };
 </script>

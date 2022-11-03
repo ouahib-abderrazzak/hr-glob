@@ -112,7 +112,7 @@
                   class="
                     btn-sm
                     text-white
-                    bg-red-500
+                    bg-hr-globe-color
                     hover:bg-red-600
                     shadow-sm
                     text-sm

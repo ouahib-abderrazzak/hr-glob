@@ -132,35 +132,35 @@
 
           <!-- Left links -->
           <div class="text-sm font-medium md:order-1 space-x-6 mb-2 md:mb-0">
-            <a
+            <router-link
               class="
                 text-gray-500
                 decoration-red-500 decoration-2
                 underline-offset-2
                 hover:underline
               "
-              href="#0"
-              >About</a
+              to="/about"
+              >About</router-link
             >
-            <a
+            <router-link
               class="
                 text-gray-500
                 decoration-red-500 decoration-2
                 underline-offset-2
                 hover:underline
               "
-              href="#0"
-              >Get in touch</a
+              to="/services"
+              >Services</router-link
             >
-            <a
+            <router-link
               class="
                 text-gray-500
                 decoration-red-500 decoration-2
                 underline-offset-2
                 hover:underline
               "
-              href="#0"
-              >Privacy &amp; Terms</a
+              to="/contact-us"
+              >Contact Us</router-link
             >
           </div>
         </div>
@@ -173,7 +173,7 @@
           the site. All images, videos, and other content posted on the site is
           attributed to their creators and original sources. If you see
           something wrong here or you would like to have it removed, please
-          <a
+          <router-link
             class="
               font-medium
               text-red-500
@@ -181,8 +181,8 @@
               underline-offset-2
               hover:underline
             "
-            href="#0"
-            >contact us</a
+            to="/contact-us"
+            >contact us</router-link
           >.
         </div>
       </div>

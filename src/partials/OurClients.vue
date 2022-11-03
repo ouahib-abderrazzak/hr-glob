@@ -21,11 +21,11 @@
         </div>
 
         <!-- Content -->
-        <div class="flex flex-wrap gap-2">
+        <div class="flex justify-center md:justify-start flex-wrap gap-2">
           <div
             v-for="(item, index) in [1, 2, 3, 4, 5]"
             :key="index"
-            class="flex-1 bg-gray-300 h-28"
+            class="w-full md:w-1/4 bg-gray-300 h-28"
           ></div>
         </div>
       </div>

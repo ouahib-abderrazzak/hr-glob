@@ -4,12 +4,15 @@
     <Header />
 
     <!-- Page content -->
+    <!-- Section One -->
     <main class="grow">
       <Hero />
+      <SectionOne />
+      <SectionTwo />
+      <SectionThree />
+      <section-four />
       <OurClients />
-      <HowCanWeHelp />
-      <OurProcess />
-      <NeedAgency />
+      <section-five />
       <Forms />
     </main>
 
@@ -27,6 +30,11 @@ import Footer from "../partials/Footer.vue";
 import HowCanWeHelp from "../partials/HowCanWeHelp.vue";
 import OurProcess from "../partials/OurProcess.vue";
 import NeedAgency from "../partials/NeedAgency.vue";
+import SectionOne from "../partials/SectionOne.vue";
+import SectionTwo from "../partials/SectionTwo.vue";
+import SectionThree from "../partials/SectionThree.vue";
+import SectionFour from "../partials/SectionFour.vue";
+import SectionFive from "../partials/SectionFive.vue";
 
 export default {
   name: "Home",
@@ -39,7 +47,11 @@ export default {
     Footer,
     HowCanWeHelp,
     OurProcess,
+    SectionOne,
+    SectionTwo,
+    SectionThree,
+    SectionFour,
+    SectionFive,
   },
 };
-</script>,
-    NeedAgency
+</script>

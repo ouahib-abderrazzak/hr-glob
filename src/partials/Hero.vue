@@ -37,7 +37,7 @@
               data-aos-delay="100"
             >
               International Talent Recruitment Services for
-              <span class="relative inline-flex text-red-500">
+              <span class="relative inline-flex text-hr-globe-color">
                 <svg
                   class="absolute left-0 top-full -mt-4 max-w-full -z-10"
                   width="220"
@@ -51,8 +51,8 @@
                     fill-rule="evenodd"
                   />
                 </svg>
-                Canadian Employers </span
-              >.
+                Canadian Employers
+              </span>
             </h1>
             <p
               class="text-xl text-gray-500 mb-10"
@@ -64,7 +64,7 @@
               advertised your vacancies, and it seems your adverts went
               unnoticed. Or have you only attracted unqualified talents to your
               job vacancy adverts? Get in here.
-              <b>HR Globe is Here to Help You!</b>
+              <b class="text-hr-globe-color">HR Globe is Here to Help You!</b>
             </p>
 
             <p
@@ -79,7 +79,7 @@
               talent to complement your workforce is your best bet.
               Consequently, you’ll ease your workforce constraint, promote
               business productivity, and achieve the overall goal of your
-              company.<b>Hire HR Globe Now!</b>
+              company.<b class="text-hr-globe-color">Hire HR Globe Now!</b>
             </p>
             <!-- Buttons -->
             <div
@@ -101,13 +101,13 @@
                   class="
                     btn
                     text-white
-                    bg-red-500
+                    bg-hr-globe-color
                     hover:bg-red-600
                     w-full
                     shadow-sm
                   "
                   href="#contact-us"
-                  >Contact Us</a
+                  >Apply Now</a
                 >
               </div>
             </div>

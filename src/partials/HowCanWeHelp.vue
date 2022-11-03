@@ -3,8 +3,8 @@
     <div class="max-w-6xl mx-auto px-4 sm:px-6">
       <div class="py-12 md:pt-32 md:pb-20">
         <!-- Section header -->
-        <div class="pb-12 md:pb-14">
-          <div class="relative text-center md:text-left">
+        <div class="pb-12 md:pb-14 flex flex-col md:flex-row">
+          <div class="relative text-center md:text-left flex-1">
             <svg
               class="fill-gray-300 hidden md:block absolute -ml-7 -mt-8"
               width="22"
@@ -46,7 +46,13 @@
               invest in the human potential that we offer in several areas of
               activities.
             </p>
-            <p
+
+          </div>
+          <div class='flex-1'>
+            <img src='../images/image-hr.jpg' />
+          </div>
+        </div>
+        <p
               class="text-xl text-gray-500 mb-10"
               data-aos="fade-right"
               data-aos-delay="200"
@@ -60,8 +66,6 @@
               international standards of best practices to ensure you do not
               make a bad hiring decision.
             </p>
-          </div>
-        </div>
       </div>
     </div>
   </section>
