@@ -12,7 +12,11 @@
         mt-24
       "
     >
-      <div class="relative text-center md:text-left flex-1">
+      <div
+        data-aos="fade-right"
+        data-aos-delay="200"
+        class="relative text-center md:text-left flex-1"
+      >
         <svg
           class="fill-gray-300 hidden md:block absolute -ml-7 -mt-8"
           width="22"
@@ -25,11 +29,7 @@
           />
         </svg>
         <h2 class="h2 font-cabinet-grotesk mb-10">Candidates</h2>
-        <p
-          class="text-xl text-gray-500 mb-10"
-          data-aos="fade-right"
-          data-aos-delay="200"
-        >
+        <p class="text-xl text-gray-500 mb-10">
           Our esteemed employers in Canada are eager to hire highly skilled,
           knowledgeable, and qualified foreign talents.
           <b class="text-hr-globe-color"
@@ -37,7 +37,11 @@
           >
         </p>
       </div>
-      <div class="relative text-center md:text-left flex-1">
+      <div
+        data-aos="fade-right"
+        data-aos-delay="200"
+        class="relative text-center md:text-left flex-1"
+      >
         <svg
           class="fill-gray-300 hidden md:block absolute -ml-7 -mt-8"
           width="22"
@@ -50,11 +54,7 @@
           />
         </svg>
         <h2 class="h2 font-cabinet-grotesk mb-10">Employers</h2>
-        <p
-          class="text-xl text-gray-500 mb-10"
-          data-aos="fade-right"
-          data-aos-delay="200"
-        >
+        <p class="text-xl text-gray-500 mb-10">
           Looking for skilled international talents to work with you in Canada?
           Looking to fill your labor shortages with foreign talents? We can Help
           <b class="text-hr-globe-color"
@@ -63,7 +63,11 @@
         </p>
       </div>
     </div>
-    <div class="max-w-6xl mx-auto px-4 sm:px- mb-24">
+    <div
+      data-aos="fade-right"
+      data-aos-delay="200"
+      class="max-w-6xl mx-auto px-4 sm:px- mb-24"
+    >
       <div class="relative text-center md:text-left flex-1">
         <svg
           class="fill-gray-300 hidden md:block absolute -ml-7 -mt-8"
@@ -79,11 +83,7 @@
         <h2 class="h2 font-cabinet-grotesk mb-10">
           HR Globe – Your Foreign Talent Specialists
         </h2>
-        <p
-          class="text-xl text-gray-500 mb-10"
-          data-aos="fade-right"
-          data-aos-delay="200"
-        >
+        <p class="text-xl text-gray-500 mb-10">
           Matching Qualified Talents with Canadian Firms
           <b class="text-hr-globe-color">Since 1998 </b>
         </p>

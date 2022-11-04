@@ -4,7 +4,11 @@
       <div class="py-12 md:pt-32 md:pb-20">
         <!-- Section header -->
         <div class="pb-12 md:pb-14">
-          <div class="relative text-center md:text-left">
+          <div
+            data-aos="fade-right"
+            data-aos-delay="200"
+            class="relative text-center md:text-left"
+          >
             <svg
               class="fill-gray-300 hidden md:block absolute -ml-7 -mt-8"
               width="22"
@@ -19,7 +23,7 @@
             <h2 class="h2 font-cabinet-grotesk mb-10">
               Matching Qualified Foreign Candidates with Employers – Our Process
             </h2>
-            <img src='../images/image-meeting-room.jpg' class='mb-10' />
+            <img src="../images/image-meeting-room.jpg" class="mb-10" />
             <p
               class="text-xl text-gray-500 mb-10"
               data-aos="fade-right"
@@ -48,7 +52,11 @@
               <!-- Column -->
               <div class="w-full md:w-1/2 space-y-8">
                 <!-- Item -->
-                <div class="space-y-2">
+                <div
+                  data-aos="fade-right"
+                  data-aos-delay="200"
+                  class="space-y-2"
+                >
                   <h4 class="text-xl font-cabinet-grotesk font-bold">
                     Phase 1- Gathering information
                   </h4>
@@ -63,7 +71,11 @@
                 </div>
 
                 <!-- Item -->
-                <div class="space-y-2">
+                <div
+                  data-aos="fade-right"
+                  data-aos-delay="200"
+                  class="space-y-2"
+                >
                   <h4 class="text-xl font-cabinet-grotesk font-bold">
                     Phase 2 - Search for candidates
                   </h4>
@@ -80,7 +92,11 @@
                 </div>
 
                 <!-- Item -->
-                <div class="space-y-2">
+                <div
+                  data-aos="fade-right"
+                  data-aos-delay="200"
+                  class="space-y-2"
+                >
                   <h4 class="text-xl font-cabinet-grotesk font-bold">
                     Phase 3 - Candidates Selection Process
                   </h4>
@@ -95,7 +111,11 @@
                 </div>
 
                 <!-- Item -->
-                <div class="space-y-2">
+                <div
+                  data-aos="fade-right"
+                  data-aos-delay="200"
+                  class="space-y-2"
+                >
                   <h4 class="text-xl font-cabinet-grotesk font-bold">
                     Phase 4 - Candidate’s Language Evaluation
                   </h4>
@@ -117,7 +137,11 @@
               <!-- Column -->
               <div class="w-full md:w-1/2 space-y-8">
                 <!-- Item -->
-                <div class="space-y-2">
+                <div
+                  data-aos="fade-right"
+                  data-aos-delay="200"
+                  class="space-y-2"
+                >
                   <h4 class="text-xl font-cabinet-grotesk font-bold">
                     Phase 5 - Document Verification
                   </h4>
@@ -135,7 +159,11 @@
                 </div>
 
                 <!-- Item -->
-                <div class="space-y-2">
+                <div
+                  data-aos="fade-right"
+                  data-aos-delay="200"
+                  class="space-y-2"
+                >
                   <h4 class="text-xl font-cabinet-grotesk font-bold">
                     Phase 6 - Presentation of Candidates to Employers
                   </h4>
@@ -153,7 +181,11 @@
                 </div>
 
                 <!-- Item -->
-                <div class="space-y-2">
+                <div
+                  data-aos="fade-right"
+                  data-aos-delay="200"
+                  class="space-y-2"
+                >
                   <h4 class="text-xl font-cabinet-grotesk font-bold">
                     Phase 7 - Integration of the candidate
                   </h4>

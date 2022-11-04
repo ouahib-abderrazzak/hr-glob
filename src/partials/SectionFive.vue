@@ -4,19 +4,19 @@
       <div class="py-12 md:py-20">
         <!-- Section header -->
         <div class="max-w-3xl mx-auto text-center pb-4 md:pb-8">
-          <h2 class="h2 font-cabinet-grotesk text-gray-100">
+          <h2
+            data-aos="fade-right"
+            data-aos-delay="200"
+            class="h2 font-cabinet-grotesk text-gray-100"
+          >
             How to Get Started - HR Globe Recruitment Agency
           </h2>
         </div>
-        <div
-          class="md:flex md:space-x-12 space-y-8 md:space-y-0"
-          data-aos="fade-right"
-          data-aos-delay="200"
-        >
+        <div class="md:flex md:space-x-12 space-y-8 md:space-y-0">
           <!-- Column -->
           <div class="w-full md:w-1/2 space-y-8">
             <!-- Item -->
-            <div class="space-y-2">
+            <div data-aos="fade-right" data-aos-delay="200" class="space-y-2">
               <h4
                 class="
                   text-hr-globe-color text-xl
@@ -32,7 +32,7 @@
             </div>
 
             <!-- Item -->
-            <div class="space-y-2">
+            <div data-aos="fade-right" data-aos-delay="200" class="space-y-2">
               <h4
                 class="
                   text-hr-globe-color text-xl
@@ -52,7 +52,7 @@
           <!-- Column -->
           <div class="w-full md:w-1/2 space-y-8">
             <!-- Item -->
-            <div class="space-y-2">
+            <div data-aos="fade-right" data-aos-delay="200" class="space-y-2">
               <h4
                 class="
                   text-xl text-hr-globe-color
@@ -68,7 +68,7 @@
             </div>
 
             <!-- Item -->
-            <div class="space-y-2">
+            <div data-aos="fade-right" data-aos-delay="200" class="space-y-2">
               <h4
                 class="
                   text-xl
@@ -86,7 +86,11 @@
             </div>
           </div>
         </div>
-        <p class="text-gray-100 mt-4">
+        <p
+          data-aos="fade-right"
+          data-aos-delay="200"
+          class="text-gray-100 mt-4"
+        >
           <b>Speak with our experts today!</b> Click here to
           <a href="#contact-us" class="hover:text-hr-globe-color">get started</a
           >, or call us at (phone number)

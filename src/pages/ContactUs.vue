@@ -10,7 +10,11 @@
           <div class="py-12 md:pt-32 md:pb-20">
             <!-- Section header -->
             <div class="pb-12 md:pb-14">
-              <div class="relative text-center md:text-left">
+              <div
+                data-aos="fade-right"
+                data-aos-delay="200"
+                class="relative text-center md:text-left"
+              >
                 <svg
                   class="fill-gray-300 hidden md:block absolute -ml-7 -mt-8"
                   width="22"
@@ -23,7 +27,12 @@
                   />
                 </svg>
                 <h2 class="h2 font-cabinet-grotesk mb-10">REQUEST A QUOTE</h2>
-                <img src="../images/image-meeting-room.jpg" class="mb-10" />
+                <img
+                  data-aos="fade-right"
+                  data-aos-delay="200"
+                  src="../images/image-meeting-room.jpg"
+                  class="mb-10"
+                />
                 <p
                   class="text-xl text-gray-500 mb-10"
                   data-aos="fade-right"
@@ -115,6 +124,7 @@
 import Header from "../partials/Header.vue";
 import NeedAgency from "../partials/NeedAgency.vue";
 import Footer from "../partials/Footer.vue";
+import Forms from "../partials/Forms.vue";
 
 export default {
   name: "ContactUs",
@@ -122,6 +132,7 @@ export default {
     Header,
     NeedAgency,
     Footer,
+    Forms,
   },
 };
 </script>

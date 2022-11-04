@@ -5,7 +5,11 @@
         <div class="py-8 md:pt-18 md:pb-20">
           <!-- Section header -->
           <div class="pb-12 md:pb-14">
-            <div class="relative text-center md:text-left">
+            <div
+              data-aos="fade-right"
+              data-aos-delay="200"
+              class="relative text-center md:text-left"
+            >
               <svg
                 class="fill-gray-300 hidden md:block absolute -ml-7 -mt-8"
                 width="22"
@@ -22,6 +26,8 @@
               </h2>
               <ol class="list-decimal">
                 <li
+                  data-aos="fade-right"
+                  data-aos-delay="200"
                   class="text-hr-globe-color font-bold"
                   v-for="(item, index) in [
                     'Aged 22 to 55',

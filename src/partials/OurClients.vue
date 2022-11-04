@@ -4,7 +4,11 @@
       <div class="py-12 md:pt-32 md:pb-20">
         <!-- Section header -->
         <div class="pb-12 md:pb-14">
-          <div class="relative text-center md:text-left">
+          <div
+            data-aos="fade-right"
+            data-aos-delay="200"
+            class="relative text-center md:text-left"
+          >
             <svg
               class="fill-gray-300 hidden md:block absolute -ml-7 -mt-8"
               width="22"
@@ -23,6 +27,8 @@
         <!-- Content -->
         <div class="flex justify-center md:justify-start flex-wrap gap-2">
           <div
+            data-aos="fade-right"
+            data-aos-delay="200"
             v-for="(item, index) in [1, 2, 3, 4, 5]"
             :key="index"
             class="w-full md:w-1/4 bg-gray-300 h-28"

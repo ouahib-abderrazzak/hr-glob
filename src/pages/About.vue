@@ -51,7 +51,6 @@
       <NeedAgency />
       <Forms />
     </main>
-
     <!-- Site footer -->
     <Footer />
   </div>
@@ -60,6 +59,7 @@
 <script>
 import Header from "../partials/Header.vue";
 import NeedAgency from "../partials/NeedAgency.vue";
+import Forms from "../partials/Forms.vue";
 import Footer from "../partials/Footer.vue";
 
 export default {
@@ -68,6 +68,7 @@ export default {
     Header,
     NeedAgency,
     Footer,
+    Forms,
   },
 };
 </script>

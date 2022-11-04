@@ -5,7 +5,11 @@
         <div class="py-12 md:pt-32 md:pb-20">
           <!-- Section header -->
           <div class="pb-12 md:pb-14">
-            <div class="relative text-center md:text-left">
+            <div
+              data-aos="fade-right"
+              data-aos-delay="200"
+              class="relative text-center md:text-left"
+            >
               <svg
                 class="fill-gray-300 hidden md:block absolute -ml-7 -mt-8"
                 width="22"
@@ -21,11 +25,16 @@
                 HR Globe - Professional and Licensed Immigration Agency in
                 Canada
               </h2>
-              <img src="../images/image-meeting-room.jpg" class="mb-10" />
-              <p
-                class="text-xl text-gray-500 mb-10"
+              <img
                 data-aos="fade-right"
                 data-aos-delay="200"
+                src="../images/image-meeting-room.jpg"
+                class="mb-10"
+              />
+              <p
+                data-aos="fade-right"
+                data-aos-delay="200"
+                class="text-xl text-gray-500 mb-10"
               >
                 HR Globe is a professional and government-licensed recruitment
                 agency in Canada. For over (number of) years, we have continued
@@ -35,9 +44,9 @@
                 productivity.
               </p>
               <p
-                class="text-xl text-gray-500 mb-10"
                 data-aos="fade-right"
                 data-aos-delay="200"
+                class="text-xl text-gray-500 mb-10"
               >
                 With us, worry less about getting highly qualified foreign
                 talents. Thanks to our network of collaborating partners and
@@ -50,7 +59,11 @@
                 industry, or province.
               </p>
             </div>
-            <div class="relative text-center md:text-left">
+            <div
+              data-aos="fade-right"
+              data-aos-delay="200"
+              class="relative text-center md:text-left"
+            >
               <svg
                 class="fill-gray-300 hidden md:block absolute -ml-7 -mt-8"
                 width="22"
@@ -63,11 +76,7 @@
                 />
               </svg>
               <h2 class="h2 font-cabinet-grotesk mb-10">Canadian Employers</h2>
-              <p
-                class="text-xl text-gray-500 mb-10"
-                data-aos="fade-right"
-                data-aos-delay="200"
-              >
+              <p class="text-xl text-gray-500 mb-10">
                 <b class="text-hr-globe-color"
                   >Looking for qualified foreign talents to join your
                   company?</b
@@ -82,7 +91,11 @@
                 for you.
               </p>
             </div>
-            <div class="relative text-center md:text-left">
+            <div
+              data-aos="fade-right"
+              data-aos-delay="200"
+              class="relative text-center md:text-left"
+            >
               <svg
                 class="fill-gray-300 hidden md:block absolute -ml-7 -mt-8"
                 width="22"
@@ -95,11 +108,7 @@
                 />
               </svg>
               <h2 class="h2 font-cabinet-grotesk mb-10">Foreign Candidates</h2>
-              <p
-                class="text-xl text-gray-500 mb-10"
-                data-aos="fade-right"
-                data-aos-delay="200"
-              >
+              <p class="text-xl text-gray-500 mb-10">
                 <b class="text-hr-globe-color"
                   >Would you like to migrate and work in Canada?</b
                 >
@@ -117,7 +126,11 @@
                 >
               </p>
             </div>
-            <div class="relative text-center md:text-left">
+            <div
+              data-aos="fade-right"
+              data-aos-delay="200"
+              class="relative text-center md:text-left"
+            >
               <svg
                 class="fill-gray-300 hidden md:block absolute -ml-7 -mt-8"
                 width="22"
@@ -130,11 +143,7 @@
                 />
               </svg>
               <h2 class="h2 font-cabinet-grotesk mb-10">Great Opportunities</h2>
-              <p
-                class="text-xl text-gray-500 mb-10"
-                data-aos="fade-right"
-                data-aos-delay="200"
-              >
+              <p class="text-xl text-gray-500 mb-10">
                 It’s no longer a secret that Canada is facing labor shortages
                 and all hands are on deck to promote immigration to help fill
                 the available vacancies in organizations, industries, and

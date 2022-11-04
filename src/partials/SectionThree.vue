@@ -5,7 +5,11 @@
         <div class="py-12 md:pt-32 md:pb-20">
           <!-- Section header -->
           <div class="pb-12 md:pb-14">
-            <div class="relative text-center md:text-left">
+            <div
+              data-aos="fade-right"
+              data-aos-delay="200"
+              class="relative text-center md:text-left"
+            >
               <svg
                 class="fill-gray-300 hidden md:block absolute -ml-7 -mt-8"
                 width="22"
@@ -19,6 +23,8 @@
               </svg>
               <h2 class="h2 font-cabinet-grotesk mb-10">Why Choose Us?</h2>
               <div
+                data-aos="fade-right"
+                data-aos-delay="200"
                 v-for="(item, index) in [
                   {
                     name: 'Government Licensed',
@@ -61,15 +67,13 @@ quality of our service delivery.`,
                 :key="index"
               >
                 <b class="text-hr-globe-color">{{ item.name }}</b>
-                <p
-                  class="text-xl text-gray-500 mb-10"
-                  data-aos="fade-right"
-                  data-aos-delay="200"
-                >
+                <p class="text-xl text-gray-500 mb-10">
                   {{ item.description }}
                 </p>
               </div>
               <h1
+                data-aos="fade-right"
+                data-aos-delay="200"
                 class="
                   text-4xl
                   font-cabinet-grotesk font-bold

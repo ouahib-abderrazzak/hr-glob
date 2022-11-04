@@ -20,12 +20,16 @@
     <div class="max-w-6xl mx-auto px-4 sm:px-6">
       <div class="py-12 md:py-20">
         <!-- Section header -->
-        <div class="max-w-3xl mx-auto text-center pb-12 md:pb-16">
+        <div
+          data-aos="fade-right"
+          data-aos-delay="200"
+          class="max-w-3xl mx-auto text-center pb-12 md:pb-16"
+        >
           <h2 class="h2 font-cabinet-grotesk">Join HR Globe Now!</h2>
         </div>
 
         <!-- Pricing tables -->
-        <div>
+        <div data-aos="fade-right" data-aos-delay="200">
           <!-- Pricing toggle -->
           <div class="flex justify-center max-w-[18rem] m-auto mb-8 lg:mb-16">
             <div class="relative flex w-full mx-6 p-1 bg-gray-200 rounded-full">
