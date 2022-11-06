@@ -32,7 +32,7 @@
           <div class="md:w-[640px]">
             <!-- Copy -->
             <h1
-              class="h1 font-cabinet-grotesk mb-6"
+              class="h1 text-[54px] md:text-[74px] font-cabinet-grotesk mb-6"
               data-aos="fade-right"
               data-aos-delay="100"
             >
@@ -54,33 +54,7 @@
                 Canadian Employers
               </span>
             </h1>
-            <p
-              class="text-xl text-gray-500 mb-10"
-              data-aos="fade-right"
-              data-aos-delay="200"
-            >
-              Your business is forced to scrap a huge business deal because you
-              do not have the competent workforce to deliver. Or you probably
-              advertised your vacancies, and it seems your adverts went
-              unnoticed. Or have you only attracted unqualified talents to your
-              job vacancy adverts? Get in here.
-              <b class="text-hr-globe-color">HR Globe is Here to Help You!</b>
-            </p>
 
-            <p
-              class="text-xl text-gray-500 mb-10"
-              data-aos="fade-right"
-              data-aos-delay="200"
-            >
-              Regardless of the industry, many employers across Canada face
-              serious setbacks with labor shortages. Ultimately, they are forced
-              to explore a variety of options to meet their company’s demands.
-              If you’re a Canadian employer in this situation, hiring foreign
-              talent to complement your workforce is your best bet.
-              Consequently, you’ll ease your workforce constraint, promote
-              business productivity, and achieve the overall goal of your
-              company.<b class="text-hr-globe-color">Hire HR Globe Now!</b>
-            </p>
             <!-- Buttons -->
             <div
               class="

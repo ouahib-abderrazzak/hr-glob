@@ -2,7 +2,7 @@
   <section>
     <div class="max-w-6xl mx-auto px-4 sm:px-6">
       <div class="max-w-6xl mx-auto px-4 sm:px-6">
-        <div class="py-12 md:pt-32 md:pb-20">
+        <div>
           <!-- Section header -->
           <div class="pb-12 md:pb-14">
             <div

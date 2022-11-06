@@ -85,7 +85,7 @@
         </h2>
         <p class="text-xl text-gray-500 mb-10">
           Matching Qualified Talents with Canadian Firms
-          <b class="text-hr-globe-color">Since 1998 </b>
+          <b class="text-hr-globe-color">Since 2002 </b>
         </p>
       </div>
     </div>

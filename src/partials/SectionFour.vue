@@ -24,7 +24,7 @@
               <h2 class="h2 font-cabinet-grotesk mb-10">
                 Our selection of workers
               </h2>
-              <ol class="list-decimal">
+              <ol class="list-decimal md:pl-8">
                 <li
                   data-aos="fade-right"
                   data-aos-delay="200"
