@@ -39,7 +39,16 @@
               International Talent Recruitment Services for
               <span class="relative inline-flex text-hr-globe-color">
                 <svg
-                  class="absolute left-0 top-full -mt-4 max-w-full -z-10"
+                  class="
+                    absolute
+                    md:left-0 md:-translate-x-0
+                    top-full
+                    -mt-4
+                    max-w-full
+                    -z-10
+                    -translate-x-2/4
+                    left-1/2
+                  "
                   width="220"
                   height="24"
                   viewBox="0 0 220 24"

@@ -21,7 +21,7 @@
                   fill-rule="evenodd"
                 />
               </svg>
-              <h2 class="h2 font-cabinet-grotesk mb-10">
+              <h2 class="h2 font-cabinet-grotesk mb-4 md:mb-10">
                 Where Are You In Your Career Right Now?
               </h2>
               <img
@@ -50,9 +50,10 @@
                 impacts with your skills, knowledge, experience, and expertise?
                 Look no further. Our success at HR Globe lies in our ability and
                 commitment to connecting you with the best opportunity that
-                suits your dream.<b class="text-hr-globe-color"
+                suits your dream.
+                <!-- <b class="text-hr-globe-color"
                   >Get Started Today!</b
-                >
+                > -->
               </p>
             </div>
             <div
@@ -71,7 +72,7 @@
                   fill-rule="evenodd"
                 />
               </svg>
-              <h2 class="h2 font-cabinet-grotesk mb-10">
+              <h2 class="h2 font-cabinet-grotesk mb-4 md:mb-10">
                 Let’s Find the Next Opportunity for You
               </h2>
               <p
@@ -93,7 +94,7 @@
                 continued to stand out by providing Canadian employers with an
                 expanding pool of highly skilled and qualified workers in a
                 timely and cost-effective fashion.
-                <b class="text-hr-globe-color">Contact Us Now!</b>
+                <!-- <b class="text-hr-globe-color">Contact Us Now!</b> -->
               </p>
             </div>
           </div>

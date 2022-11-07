@@ -28,13 +28,13 @@
             fill-rule="evenodd"
           />
         </svg>
-        <h2 class="h2 font-cabinet-grotesk mb-10">Candidates</h2>
+        <h2 class="h2 font-cabinet-grotesk mb-4 md:mb-10">Candidates</h2>
         <p class="text-xl text-gray-500 mb-10">
           Our esteemed employers in Canada are eager to hire highly skilled,
           knowledgeable, and qualified foreign talents.
-          <b class="text-hr-globe-color"
+          <!-- <b class="text-hr-globe-color"
             >Apply Today! Check Our Job Listing Now!</b
-          >
+          > -->
         </p>
       </div>
       <div
@@ -53,13 +53,13 @@
             fill-rule="evenodd"
           />
         </svg>
-        <h2 class="h2 font-cabinet-grotesk mb-10">Employers</h2>
+        <h2 class="h2 font-cabinet-grotesk mb-4 md:mb-10">Employers</h2>
         <p class="text-xl text-gray-500 mb-10">
           Looking for skilled international talents to work with you in Canada?
           Looking to fill your labor shortages with foreign talents? We can Help
-          <b class="text-hr-globe-color"
+          <!-- <b class="text-hr-globe-color"
             >Check Out How We Help Canadian Firms!</b
-          >
+          > -->
         </p>
       </div>
     </div>
@@ -80,7 +80,7 @@
             fill-rule="evenodd"
           />
         </svg>
-        <h2 class="h2 font-cabinet-grotesk mb-10">
+        <h2 class="h2 font-cabinet-grotesk mb-4 md:mb-10">
           HR Globe – Your Foreign Talent Specialists
         </h2>
         <p class="text-xl text-gray-500 mb-10">

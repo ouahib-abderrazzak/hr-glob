@@ -20,7 +20,7 @@
                 fill-rule="evenodd"
               />
             </svg>
-            <h2 class="h2 font-cabinet-grotesk mb-10">
+            <h2 class="h2 font-cabinet-grotesk mb-4 md:mb-10">
               How HR Globe Can Help You Hire the Best Qualified Talents Across
               the Globe
             </h2>

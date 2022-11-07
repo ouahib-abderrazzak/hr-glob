@@ -26,7 +26,9 @@
                     fill-rule="evenodd"
                   />
                 </svg>
-                <h2 class="h2 font-cabinet-grotesk mb-10">REQUEST A QUOTE</h2>
+                <h2 class="h2 font-cabinet-grotesk mb-4 md:mb-10">
+                  REQUEST A QUOTE
+                </h2>
                 <img
                   data-aos="fade-right"
                   data-aos-delay="200"
@@ -47,11 +49,11 @@
                   data-aos-delay="200"
                 >
                   As a government-licensed talent recruitment firm with the
-                  registration number AR- 2202513, we have continued to help
-                  Canadian employers address their labor shortages by providing
-                  highly skilled, knowledgeable, and qualified workers. Please
-                  fill out this form to receive an evaluation and quote
-                  customized based on your specific requirements.
+                  registration number <b>AR- 2202513</b>, we have continued to
+                  help Canadian employers address their labor shortages by
+                  providing highly skilled, knowledgeable, and qualified
+                  workers. Please fill out this form to receive an evaluation
+                  and quote customized based on your specific requirements.
                 </p>
 
                 <p
@@ -81,7 +83,7 @@
                     fill-rule="evenodd"
                   />
                 </svg>
-                <h2 class="h2 font-cabinet-grotesk mb-10">
+                <h2 class="h2 font-cabinet-grotesk mb-4 md:mb-10">
                   GET IN TOUCH WITH HR GLOBE NOW
                 </h2>
                 <p
@@ -99,12 +101,12 @@
                   data-aos="fade-right"
                   data-aos-delay="200"
                 >
-                  For general information, call us at +1 514 671 0183 or email
-                  us at info@hrglobe.ca. Getting you the RIGHT Talent that fits
-                  your available roles is our utmost priority.
-                  <b class="text-hr-globe-color"
+                  For general information, call us at <b>+1 514 671 0183</b> or
+                  email us at <b>info@hrglobe.ca</b>. Getting you the RIGHT
+                  Talent that fits your available roles is our utmost priority.
+                  <!-- <b class="text-hr-globe-color"
                     >Fill the Evaluation Form Now!</b
-                  >
+                  > -->
                 </p>
               </div>
             </div>

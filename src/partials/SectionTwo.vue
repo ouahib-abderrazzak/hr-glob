@@ -21,7 +21,7 @@
                   fill-rule="evenodd"
                 />
               </svg>
-              <h2 class="h2 font-cabinet-grotesk mb-10">
+              <h2 class="h2 font-cabinet-grotesk mb-4 md:mb-10">
                 HR Globe - Professional and Licensed Immigration Agency in
                 Canada
               </h2>
@@ -75,7 +75,9 @@
                   fill-rule="evenodd"
                 />
               </svg>
-              <h2 class="h2 font-cabinet-grotesk mb-10">Canadian Employers</h2>
+              <h2 class="h2 font-cabinet-grotesk mb-4 md:mb-10">
+                Canadian Employers
+              </h2>
               <p class="text-xl text-gray-500 mb-10">
                 <b class="text-hr-globe-color"
                   >Looking for qualified foreign talents to join your
@@ -107,7 +109,9 @@
                   fill-rule="evenodd"
                 />
               </svg>
-              <h2 class="h2 font-cabinet-grotesk mb-10">Foreign Candidates</h2>
+              <h2 class="h2 font-cabinet-grotesk mb-4 md:mb-10">
+                Foreign Candidates
+              </h2>
               <p class="text-xl text-gray-500 mb-10">
                 <b class="text-hr-globe-color"
                   >Would you like to migrate and work in Canada?</b
@@ -120,10 +124,7 @@
                 and companies.<br />
                 Here at HR Globe, we will consider your application for our own
                 internal recruitment before shortlisting you with the RIGHT
-                organization and province that fits your qualifications.<b
-                  class="text-hr-globe-color"
-                  >Talk to Us!</b
-                >
+                organization and province that fits your qualifications.
               </p>
             </div>
             <div
@@ -142,7 +143,9 @@
                   fill-rule="evenodd"
                 />
               </svg>
-              <h2 class="h2 font-cabinet-grotesk mb-10">Great Opportunities</h2>
+              <h2 class="h2 font-cabinet-grotesk mb-4 md:mb-10">
+                Great Opportunities
+              </h2>
               <p class="text-xl text-gray-500 mb-10">
                 It’s no longer a secret that Canada is facing labor shortages
                 and all hands are on deck to promote immigration to help fill
@@ -150,7 +153,7 @@
                 provinces. This a unique opportunity for Canadian firms to fill
                 their labor shortages with diverse talents to help boost their
                 productivity and the overall goals and objectives of their
-                organization.<b class="text-hr-globe-color">Learn More!</b>
+                organization.
               </p>
             </div>
           </div>

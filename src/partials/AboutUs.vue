@@ -16,7 +16,9 @@
                 fill-rule="evenodd"
               />
             </svg>
-            <h2 class="h2 font-cabinet-grotesk mb-10">About Us – HR Globe</h2>
+            <h2 class="h2 font-cabinet-grotesk mb-4 md:mb-10">
+              About Us – HR Globe
+            </h2>
             <p
               class="text-xl text-gray-500 mb-10"
               data-aos="fade-right"
@@ -55,7 +57,7 @@
                 fill-rule="evenodd"
               />
             </svg>
-            <h2 class="h2 font-cabinet-grotesk mb-10">
+            <h2 class="h2 font-cabinet-grotesk mb-4 md:mb-10">
               How HR Globe Can Help You Hire the Best Qualified Talents Across
               the Globe
             </h2>
@@ -121,7 +123,7 @@
                 fill-rule="evenodd"
               />
             </svg>
-            <h2 class="h2 font-cabinet-grotesk mb-10">
+            <h2 class="h2 font-cabinet-grotesk mb-4 md:mb-10">
               Matching Qualified Foreign Candidates with Employers – Our Process
             </h2>
             <p

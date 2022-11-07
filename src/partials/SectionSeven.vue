@@ -21,7 +21,7 @@
                   fill-rule="evenodd"
                 />
               </svg>
-              <h2 class="h2 font-cabinet-grotesk mb-10">
+              <h2 class="h2 font-cabinet-grotesk mb-4 md:mb-10">
                 Making the Right Match for Your Company in Canada - Our Services
                 for Candidates
               </h2>
@@ -81,7 +81,7 @@ the interview with your prospective Canadian employer.`,
                   fill-rule="evenodd"
                 />
               </svg>
-              <h2 class="h2 font-cabinet-grotesk mb-10">
+              <h2 class="h2 font-cabinet-grotesk mb-4 md:mb-10">
                 Check Our Simple Recruitment Process for International Talents
               </h2>
               <div
@@ -147,7 +147,9 @@ are then formally integrated into the organization.`,
                 fill-rule="evenodd"
               />
             </svg>
-            <h2 class="h2 font-cabinet-grotesk mb-10">Find Your Future Now!</h2>
+            <h2 class="h2 font-cabinet-grotesk mb-4 md:mb-10">
+              Find Your Future Now!
+            </h2>
             <img
               data-aos="fade-right"
               data-aos-delay="200"
@@ -185,7 +187,7 @@ are then formally integrated into the organization.`,
                 fill-rule="evenodd"
               />
             </svg>
-            <h2 class="h2 font-cabinet-grotesk mb-10">
+            <h2 class="h2 font-cabinet-grotesk mb-4 md:mb-10">
               Check Out Testimonials from Our Past Clients
             </h2>
             <p

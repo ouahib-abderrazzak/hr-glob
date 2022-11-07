@@ -93,7 +93,7 @@
         >
           <b>Speak with our experts today!</b> Click here to
           <a href="#contact-us" class="hover:text-hr-globe-color">get started</a
-          >, or call us at (phone number)
+          >, or call us at <b>+1 514 671 0183</b>
         </p>
       </div>
     </div>

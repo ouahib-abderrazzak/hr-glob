@@ -20,7 +20,7 @@
                 fill-rule="evenodd"
               />
             </svg>
-            <h2 class="h2 font-cabinet-grotesk mb-10">
+            <h2 class="h2 font-cabinet-grotesk mb-4 md:mb-10">
               Matching Qualified Foreign Candidates with Employers – Our Process
             </h2>
             <img src="../images/image-meeting-room.jpg" class="mb-10" />

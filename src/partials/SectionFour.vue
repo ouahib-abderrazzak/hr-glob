@@ -21,7 +21,7 @@
                   fill-rule="evenodd"
                 />
               </svg>
-              <h2 class="h2 font-cabinet-grotesk mb-10">
+              <h2 class="h2 font-cabinet-grotesk mb-4 md:mb-10">
                 Our selection of workers
               </h2>
               <ol class="list-decimal md:pl-8">

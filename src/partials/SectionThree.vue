@@ -21,7 +21,9 @@
                   fill-rule="evenodd"
                 />
               </svg>
-              <h2 class="h2 font-cabinet-grotesk mb-10">Why Choose Us?</h2>
+              <h2 class="h2 font-cabinet-grotesk mb-4 md:mb-10">
+                Why Choose Us?
+              </h2>
               <div
                 data-aos="fade-right"
                 data-aos-delay="200"
