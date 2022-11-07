@@ -5,9 +5,10 @@
 
     <!-- Page content -->
     <main class="grow">
-      <Hero />
-      <OurClients />
+      <SectionSix />
+      <SectionSeven />
       <HowCanWeHelp />
+      <OurClients />
       <OurProcess />
       <NeedAgency />
       <Forms />
@@ -27,6 +28,8 @@ import Footer from "../partials/Footer.vue";
 import HowCanWeHelp from "../partials/HowCanWeHelp.vue";
 import OurProcess from "../partials/OurProcess.vue";
 import NeedAgency from "../partials/NeedAgency.vue";
+import SectionSix from "../partials/SectionSix.vue";
+import SectionSeven from "../partials/SectionSeven.vue";
 
 export default {
   name: "Home",
@@ -39,6 +42,8 @@ export default {
     Footer,
     HowCanWeHelp,
     OurProcess,
+    SectionSix,
+    SectionSeven,
   },
 };
 </script>
