@@ -22,7 +22,7 @@
                 />
               </svg>
               <h2 class="h2 font-cabinet-grotesk mb-10">
-                Où En Êtes-Vous Dans Votre Carrière En Ce Moment?
+                Where Are You In Your Career Right Now?
               </h2>
               <img
                 data-aos="fade-right"
@@ -35,26 +35,23 @@
                 data-aos-delay="200"
                 class="text-xl text-gray-500 mb-10"
               >
-                Il ne s’agit pas seulement de faire correspondre vos compétences
-                uniques à chaque description de poste - notre processus
-                d’acquisition de talents suit un chemin clair de connaissance de
-                votre personnalité, de votre style de travail et de vos
-                objectifs de carrière, ce qui nous aidera à vous jumeler avec un
-                emploi qui correspond parfaitement à vos désirs.
+                It’s not just about matching your unique skillsets with every
+                job description – our talent acquisition process follows a clear
+                path of knowing your personality, work style, and career goals,
+                which will help us match you with a job that perfectly fits your
+                desires.
               </p>
               <p
                 data-aos="fade-right"
                 data-aos-delay="200"
                 class="text-xl text-gray-500 mb-10"
               >
-                Vous cherchez le rôle de vos rêves où vous pouvez avoir un
-                impact significatif avec vos compétences, vos connaissances,
-                votre expérience et votre expertise? Ne cherchez pas plus loin.
-                Notre succès chez HR Globe réside dans notre capacité et notre
-                engagement à vous mettre en contact avec la meilleure
-                opportunité qui convient à votre rêve.<b
-                  class="text-hr-globe-color"
-                  >Commencez dès aujourd’hui!</b
+                Looking for your dream role where you can make significant
+                impacts with your skills, knowledge, experience, and expertise?
+                Look no further. Our success at HR Globe lies in our ability and
+                commitment to connecting you with the best opportunity that
+                suits your dream.<b class="text-hr-globe-color"
+                  >Get Started Today!</b
                 >
               </p>
             </div>
@@ -75,31 +72,28 @@
                 />
               </svg>
               <h2 class="h2 font-cabinet-grotesk mb-10">
-                Trouvons la prochaine opportunité pour vous
+                Let’s Find the Next Opportunity for You
               </h2>
               <p
                 data-aos="fade-right"
                 data-aos-delay="200"
                 class="text-xl text-gray-500 mb-10"
               >
-                Pour nous, notre joie est de faire ce que nous savons faire de
-                mieux. Les employeurs nous font confiance pour faire ce qu’ils
-                ne peuvent pas faire : mener des recherches ciblées pour trouver
-                des talents difficiles à trouver.<br />
-                Lorsque vous travaillez avec nous chez HR Globe, soyez assuré
-                que nous vous jumelerons avec le rôle de vos rêves - un rôle qui
-                vous permet de vous épanouir et de prendre le dessus sur votre
-                carrière en temps voulu. Nous vous promettons que votre
-                recherche sera idéalement confidentielle.<br />
-                En tant qu’organisation internationale de recrutement de talents
-                de renom, les RH sont autorisées par le gouvernement avec le
-                numéro AR-2202513 pour aider des millions de travailleurs
-                étrangers à immigrer au Canada rapidement et de manière
-                transparente. Grâce à notre expérience et à notre expertise,
-                nous avons continué de nous démarquer en offrant aux employeurs
-                canadiens un bassin croissant de travailleurs hautement
-                qualifiés et qualifiés en temps opportun et de manière rentable.
-                <b class="text-hr-globe-color">Contactez-nous maintenant!</b>
+                For us, our joy is doing what we know how to do best. Employers
+                trust us to do what they cannot do – conduct targeted searches
+                for tough-to-find talents.<br />
+                When you work with us at HR Globe, rest assured that we’ll match
+                you with your dream role – a role that allows you to thrive and
+                get on top of your career in due course. We promise that your
+                search will be ideally confidential.<br />
+                As a renowned international talent recruitment organization, HR
+                is licensed by the government with the number AR-2202513 to help
+                millions of foreign workers immigrate to Canada quickly and
+                seamlessly. Based on our experience and expertise, we have
+                continued to stand out by providing Canadian employers with an
+                expanding pool of highly skilled and qualified workers in a
+                timely and cost-effective fashion.
+                <b class="text-hr-globe-color">Contact Us Now!</b>
               </p>
             </div>
           </div>

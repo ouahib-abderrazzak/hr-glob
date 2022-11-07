@@ -22,30 +22,30 @@
                 />
               </svg>
               <h2 class="h2 font-cabinet-grotesk mb-10">
-                Faire le bon match pour votre entreprise au Canada - Nos
-                services aux candidats
+                Making the Right Match for Your Company in Canada - Our Services
+                for Candidates
               </h2>
               <div
                 data-aos="fade-right"
                 data-aos-delay="200"
                 v-for="(item, index) in [
                   {
-                    name: 'Offres d’emploi',
-                    description: `Trouver des postes vacants et des postes vacants est la première étape pour travailler au
-Canada en tant que talents étrangers. Restez prêt pour les opportunités en parcourant nos
-offres d’emploi actuelles. Postulez à ceux qui conviennent à votre profil et rejoignez le bassin
-croissant de candidats.`,
+                    name: 'Job Openings',
+                    description: `Finding job vacancies and openings is the first step to working in Canada as foreign
+talent. Keep yourself prepared for opportunities by browsing through our current job
+openings. Apply to the ones that suit your profile and join the expanding pool of
+candidates.`,
                   },
                   {
-                    name: 'Négociation de l’offre d’emploi',
-                    description: `Une fois que vous aurez postulé pour l’emploi de vos rêves, nous interdiront pour négocier
-l’offre d’emploi avec votre employeur canadien.`,
+                    name: 'Job Offer Negotiation',
+                    description: `Once you’ve applied for your dream job, we’ll step in to negotiate the job offer with your
+Canadian employer.`,
                   },
                   {
-                    name: 'Pratique d’entrevue d’emploi',
-                    description: `Préparez-vous à exceller dans les entrevues approfondies de manière professionnelle et
-convaincante. Cela vous donnera un avantage concurrentiel sur les autres candidats. Nos
-services de coaching vous préparent à l’entrevue avec votre employeur canadien potentiel.`,
+                    name: 'Job Interview Practice',
+                    description: `Get prepared to excel at in-depth interviews professionally and convincingly. It’ll give
+you a competitive edge over other candidates. Our coaching services prepare you for
+the interview with your prospective Canadian employer.`,
                   },
                 ]"
                 :key="index"
@@ -82,43 +82,41 @@ services de coaching vous préparent à l’entrevue avec votre employeur canadi
                 />
               </svg>
               <h2 class="h2 font-cabinet-grotesk mb-10">
-                Consultez notre processus de recrutement simple pour les talents
-                internationaux
+                Check Our Simple Recruitment Process for International Talents
               </h2>
               <div
                 data-aos="fade-right"
                 data-aos-delay="200"
                 v-for="(item, index) in [
                   {
-                    name: 'Vérifier les offres d’emploi',
-                    description: `Les offres d’emploi régulières sont présentées sur notre site Web. Vous pouvez accéder aux
-offres disponibles tout de suite!`,
+                    name: 'Check Job Offers',
+                    description: `Regular job offers are featured on our website. You can access the available offers right
+away!`,
                   },
                   {
-                    name: 'Présenter une demande',
-                    description: `Les candidats qualifiés intéressés par l’une des offres affichées sur notre site Web peuvent
-soumettre une candidature solide et compétitive via le portail en utilisant la meilleure version
-de votre CV et d’autres détails pertinents.`,
+                    name: 'Apply',
+                    description: `Qualified candidates interested in any of the offers posted on our website can submit a
+strong and competitive application through the portal using the best version of your
+resume and other relevant details.`,
                   },
                   {
-                    name: 'Attendre',
-                    description: `À la réception de vos CV et lettres de motivation, nous lamarsons l’examen de profil. Des
-recruteurs expérimentés et des professionnels des ressources humaines examineront
-attentivement et minutieusement votre profil.`,
+                    name: 'Wait',
+                    description: `Upon receipt of your CVs and cover letters, we kickstart the profile review. Experienced
+recruiters and human resource professionals will carefully and thoroughly review your
+profile.`,
                   },
                   {
-                    name: 'Entretien',
-                    description: `Après avoir examiné attentivement votre candidature, nous présélectionnerons les candidats
-qui répondent à l’offre d’emploi et planifierons une réunion. Il est conseillé d’être pleinement
-préparé, car c’est le meilleur moment pour mettre votre meilleur pied en avant et présenter la
-meilleure version de vous-même.`,
+                    name: 'Interview',
+                    description: `After carefully reviewing your application, we will shortlist candidates that meet the job
+offer and schedule a meeting. You are advised to be fully prepared, as this is the best
+time to put your best foot forward and showcase the best version of yourself.`,
                   },
                   {
-                    name: 'Processus d’embauche',
-                    description: `Si vous avez réussi l’entrevue, le processus d’embauche commence immédiatement. Cela
-implique l’évaluation linguistique du candidat, la vérification de la documentation et la
-présentation des candidats retenus aux employeurs. Dès la sélection finale, les candidats sont
-officiellement intégrés à l’organisation.`,
+                    name: 'Hiring Process',
+                    description: `If you’ve successfully passed the interview, the hiring process begins immediately. This
+involves the candidate’s language evaluation, documentation verification, and
+presentation of successful candidates to employers. Upon final selection, candidates
+are then formally integrated into the organization.`,
                   },
                 ]"
                 :key="index"
@@ -149,21 +147,17 @@ officiellement intégrés à l’organisation.`,
                 fill-rule="evenodd"
               />
             </svg>
-            <h2 class="h2 font-cabinet-grotesk mb-10">
-              Trouvez votre avenir maintenant!
-            </h2>
+            <h2 class="h2 font-cabinet-grotesk mb-10">Find Your Future Now!</h2>
             <p
               class="text-xl text-gray-500 mb-10"
               data-aos="fade-right"
               data-aos-delay="200"
             >
-              Des postes de niveau intermédiaire à supérieur, trouver les
-              meilleurs talents pour votre organisation est notre objectif
-              fondamental chez HR Globe. Notre succès dépend non seulement de
-              fournir des candidats qualifiés et qualifiés, mais aussi de
-              trouver le BON candidat qui correspond parfaitement à vos offres
-              d’emploi et à vos offres d’emploi et qui s’alignera sur votre
-              culture d’entreprise.
+              From mid to senior-level positions, finding the best talents for
+              your organization is our fundamental goal at HR Globe. Our success
+              depends on not just providing skilled and qualified candidates but
+              finding the RIGHT Candidate that perfectly matches your job
+              vacancies and openings and will align with your corporate culture.
             </p>
           </div>
         </div>
@@ -186,46 +180,44 @@ officiellement intégrés à l’organisation.`,
               />
             </svg>
             <h2 class="h2 font-cabinet-grotesk mb-10">
-              Découvrez les témoignages de nos anciens clients
+              Check Out Testimonials from Our Past Clients
             </h2>
             <p
               class="text-xl text-gray-500 mb-10"
               data-aos="fade-right"
               data-aos-delay="200"
             >
-              Merci pour l’excellent soutien professionnel et les conseils. Ce
-              fut en effet un plaisir de travailler avec HR Globe pour
-              rechercher des travailleurs étrangers qualifiés et qualifiés. Si
-              j’ai ou connais quelqu’un qui a des besoins de recrutement de
-              talents impliquant des talents étrangers, je n’hésiterai pas à les
-              envoyer à votre façon.
-              <b class="text-hr-globe-color">(Nom et société)</b>
+              Thank you for the excellent career support and advice. It was
+              indeed a pleasure working with HR Globe to seek qualified and
+              skilled foreign workers. If I have or know anyone with talent
+              recruitment needs involving foreign talents, I will not hesitate
+              to send them your way.
+              <b class="text-hr-globe-color">(Name and Company)</b>
             </p>
             <p
               class="text-xl text-gray-500 mb-10"
               data-aos="fade-right"
               data-aos-delay="200"
             >
-              (Membre de l’équipe) à HR Globe a fait un excellent travail! Nous
-              avons eu un revirement serré, et il a très bien performé pour
-              respecter l’échéance. Elle a fourni des talents de qualité qui
-              correspondent au poste disponible, et nous avons embauché avec
-              succès un qui aurait l’impact nécessaire sur notre entreprise.
-              <b class="text-hr-globe-color">(Nom), Client heureux</b>
+              (Team Member) at HR Globe did an excellent job! We had a tight
+              turnaround, and he performed excellently to meet the deadline. She
+              delivered quality talents that fit into the available position,
+              and we successfully hired one who would make the needed impact on
+              our company.
+              <b class="text-hr-globe-color">(Name), Happy Client</b>
             </p>
             <p
               class="text-xl text-gray-500 mb-10"
               data-aos="fade-right"
               data-aos-delay="200"
             >
-              (Membre de l’équipe) est une excellente personnalité avec laquelle
-              travailler. Elle a une grande éthique de travail, d’excellentes
-              compétences en communication et de l’ouverture d’esprit. Elle
-              s’efforce continuellement de faire le travail, quelles que soient
-              les circonstances. Elle comprenait clairement les attentes du
-              poste et a fourni le meilleur ajustement pour le poste. Je
-              travaillerai à nouveau avec HR Globe.
-              <b class="text-hr-globe-color">(Nom), Client heureux</b>
+              (Team Member) is an excellent personality to work with. She has a
+              great work ethic, excellent communication skills, and
+              open-mindedness. She continually strives to get the job done
+              regardless of the circumstances. She clearly understood the
+              expectations of the role and delivered the best fit for the
+              position. I will work with HR Globe again.
+              <b class="text-hr-globe-color">(Name), Happy Client</b>
             </p>
             <h1
               data-aos="fade-right"
@@ -237,8 +229,7 @@ officiellement intégrés à l’organisation.`,
                 aos-init aos-animate
               "
             >
-              Commencez votre recherche maintenant Contactez-nous n’importe quel
-              jour, n’importe quel moment.
+              Begin Your Search Now Reach Out to Us Any Day, Any Time.
             </h1>
           </div>
         </div>
