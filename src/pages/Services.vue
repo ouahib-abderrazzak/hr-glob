@@ -4,7 +4,7 @@
     <Header />
 
     <!-- Page content -->
-    <main class="grow">
+    <main class="grow mt-[140px]">
       <SectionSix />
       <SectionSeven />
       <HowCanWeHelp />

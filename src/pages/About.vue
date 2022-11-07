@@ -4,7 +4,7 @@
     <Header />
 
     <!-- Page content -->
-    <main class="grow">
+    <main class="grow mt-[140px]">
       <section>
         <div class="max-w-6xl mx-auto px-4 sm:px-6">
           <div>
