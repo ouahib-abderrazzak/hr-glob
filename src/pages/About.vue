@@ -25,7 +25,7 @@
                 <h2 class="h2 font-cabinet-grotesk mb-10">
                   About Us – HR Globe
                 </h2>
-                <img src="../images/image-meeting-room.jpg" class="mb-10" />
+                <img src="../images/services-img-three.jpg" class="mb-10" />
                 <p
                   class="text-xl text-gray-500 mb-10"
                   data-aos="fade-right"

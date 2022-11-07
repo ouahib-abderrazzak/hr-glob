@@ -30,7 +30,7 @@
                 <img
                   data-aos="fade-right"
                   data-aos-delay="200"
-                  src="../images/image-meeting-room.jpg"
+                  src="../images/office-contact-us.jpg"
                   class="mb-10"
                 />
                 <p

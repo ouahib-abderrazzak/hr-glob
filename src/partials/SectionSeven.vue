@@ -148,6 +148,12 @@ are then formally integrated into the organization.`,
               />
             </svg>
             <h2 class="h2 font-cabinet-grotesk mb-10">Find Your Future Now!</h2>
+            <img
+              data-aos="fade-right"
+              data-aos-delay="200"
+              src="../images/services-img-two.jpg"
+              class="mb-10"
+            />
             <p
               class="text-xl text-gray-500 mb-10"
               data-aos="fade-right"

@@ -27,7 +27,7 @@
               <img
                 data-aos="fade-right"
                 data-aos-delay="200"
-                src="../images/image-meeting-room.jpg"
+                src="../images/services-image.jpg"
                 class="mb-10"
               />
               <p
