@@ -47,6 +47,15 @@
                   {{ item.name }}
                 </router-link>
               </li>
+              <li class="px-0 md:px-4 py-3 rounded-md cursor-pointer">
+                <a href="https://hrglobe.ca/">
+                  <img
+                    class="w-8 rounded"
+                    src="/fr-flag.jpg"
+                    alt="Fr flag, switch to French"
+                  />
+                </a>
+              </li>
               <li class="ml-3">
                 <a
                   class="

@@ -15,7 +15,7 @@
         <img
           data-aos="fade-right"
           data-aos-delay="200"
-          src="../images/images-meeting-rrom.jpg"
+          src="../images/images-meeting-room.jpg"
           class="mx-auto w-1/2 pb-4 md:pb-8"
         />
         <p
